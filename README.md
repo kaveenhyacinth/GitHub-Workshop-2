@@ -3,6 +3,9 @@
 ![GitHub_Workshop FOSS_Community_of_NSBM](https://img.shields.io/badge/GitHub_Workshop-FOSS_Community_of_NSBM-brightgreen.svg)
 ![GitHub_Workshop_ DevOKE](https://img.shields.io/badge/GitHub_Workshop_-DevOKE-red.svg)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Copyright Kaveen_Hyacinth_2019](https://img.shields.io/badge/Copyright-Kaveen_Hyacinth_2019-lightgray.svg)
+
 
 ## Steps:
 
