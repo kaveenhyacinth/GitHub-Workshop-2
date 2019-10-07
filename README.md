@@ -24,6 +24,10 @@
 
 * Please provide your github credentials, if prompts.
 
+## Github Pages
+
+* Use github pages to host your webcard
+
 <br/>
 
 ![Kaveen_Hyacinth_De_Alwis MuffinsLab.lk](https://img.shields.io/badge/Kaveen_Hyacinth_De_Alwis-MuffinsLab.lk-orange.svg?style=for-the-badge)
