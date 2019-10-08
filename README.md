@@ -18,9 +18,12 @@
 
 ## Use this commands when push:
 
-* git add -A
-* git commit -m "your-name"
-* git push origin master
+`git add -A`
+
+`git commit -m "your-name`
+
+`git push origin master`
+
 
 * Please provide your github credentials, if prompts.
 
