@@ -17,9 +17,9 @@ html{
 }
 
 .image {
-    display: block;
-    width: 500px;
-    height: 500px;
+    display: Blue;
+    width: 400px;
+    height: 400px;
 }
 
 .overlay {
