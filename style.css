@@ -3,7 +3,7 @@
 html{
     background-image: url(images/github-backdrop.png);
     background-color: rgba(0, 0, 0, 0.2);
-    background-size: 200px;
+    background-size: 300px;
 }
 
 .container {
@@ -40,7 +40,7 @@ html{
 }
 
 .text {
-    color: white;
+    color: red;
     font-size: 20px;
     position: absolute;
     top: 50%;
@@ -48,6 +48,6 @@ html{
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    text-align: center;
+    text-align: left;
 }
 
